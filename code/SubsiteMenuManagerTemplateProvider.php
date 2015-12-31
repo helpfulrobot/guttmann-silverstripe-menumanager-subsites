@@ -22,5 +22,4 @@ class SubsiteMenuManagerTemplateProvider implements \TemplateGlobalProvider
             'SubsiteID' => Subsite::currentSubsiteID()
         ))->First();
     }
-
 }

@@ -19,5 +19,4 @@ class MenuAdminExtension extends Extension
 
         $gridField->setList($filteredList);
     }
-
 }

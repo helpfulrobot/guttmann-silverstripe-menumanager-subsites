@@ -23,5 +23,4 @@ class MenuSetExtension extends DataExtension
     {
         $this->owner->SubsiteID = Subsite::currentSubsiteID();
     }
-
 }
